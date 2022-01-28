@@ -12,6 +12,6 @@ https://github.com/hattoriatsunori/lp-practice-static/projects/1
 
 http://ahattori.s223.xrea.com/
 
-#必要な情報
+# 必要な情報
 
 「XREA.COM NEW SIGNUP」というメールに書かれています
