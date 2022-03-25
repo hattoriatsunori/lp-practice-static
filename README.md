@@ -15,7 +15,7 @@ http://ahattori.s223.xrea.com/
 # SSH接続
 
 ```
-ssh rabeneko@s223.xrea.com
+ssh ahattori@s223.xrea.com
 ```
 
 もし家のルータ再起動などでグローバルIPアドレスが変わった場合は、以下のコントロールパネルより、もう一度許可し直してください。
