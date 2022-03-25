@@ -12,7 +12,7 @@ https://github.com/hattoriatsunori/lp-practice-static/projects/1
 
 http://ahattori.s223.xrea.com/
 
-# SSH接続できるようになりました。
+# SSH接続
 
 ```
 ssh rabeneko@s223.xrea.com
