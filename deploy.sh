@@ -1,1 +1,1 @@
-scp -r ./ ahattori@s223.xrea.com:~/lp-practice-static
+rsync -av ./ ahattori@s223.xrea.com:~/lp-practice-static
